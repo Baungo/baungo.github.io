@@ -11,7 +11,7 @@ document.body.appendChild(canvas);
 	var width = canvas.width;
 	var height = canvas.height;
 	var ctx = canvas.getContext("2d");
-	ctx.globalAlpha = 0.05;
+	ctx.globalAlpha = 0.09;
 	ctx.strokeStyle = "#000";
 	ctx.fillStyle = "#000";
 	var data = [];
